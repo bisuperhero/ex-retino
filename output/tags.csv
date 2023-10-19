@@ -1,0 +1,21 @@
+id,fgcolor,bgcolor,lang_cs,lang_bg,lang_de,lang_el,lang_en,lang_es,lang_et,lang_fr,lang_hr,lang_hu,lang_it,lang_lt,lang_lv,lang_nl,lang_pl,lang_ro,lang_sk,lang_sl,name
+e8992eee-8ca2-4070-a11e-a87b73276c97,#000000,#4cd964,Adresa ověřena,,,,,,,,,,,,,,,,,,Adresa ověřena
+3fe29861-d461-4a7a-834d-a0672692eb0f,#000000,#ffcc00,V pořadí na FV,,,,,,,,,,,,,,,,,,V pořadí na FV
+4b19ca0b-a95b-4c4c-bcdd-cd186c03c03d,#000000,#ff2d55,Vystavit kupon,,,,,,,,,,,,,,,,,,Vystavit kupon
+c6178a66-df6a-42ea-b241-1b4a03c9e24d,#000000,#5ac8fa,Zadán pokyn pro vrácení peněz,,,,,,,,,,,,,,,,,,Zadán pokyn pro vrácení peněz
+569308aa-dca9-4786-8c2d-bf1883573d16,#000000,#abb8c3,čekáme na naskladnění zboží,,,,,,,,,,,,,,,,,,čekáme na naskladnění zboží
+395bc824-2c7b-4d8f-bb38-e3498fe140cb,#000000,#ffffff,čekám na platbu,,,,,,,,,,,,,,,,,,čekám na platbu
+0a40ccd4-2b34-4c09-ae0b-9904d650cd3f,#ff2d55,#000000,URGENCE,,,,,,,,,,,,,,,,,,URGENCE
+82610666-1119-4a8b-beb6-a5ff6ed2d97b,#5ac8fa,#ffffff,Vrácení prodejna,,,,,,,,,,,,,,,,,,Vrácení prodejna
+553f9c38-9e9f-418b-83ac-e2446ece9c1e,#000000,#ff9500,Čekáme na odpověď,Waiting for customer,Waiting for customer,Αναμονή για πελάτη,Waiting for customer,Waiting for customer,Waiting for customer,En attente du client,Waiting for customer,Ügyfélre várva,Waiting for customer,Waiting for customer,Waiting for customer,Waiting for customer,Czeka na klienta,Se așteaptă clientul,Čakanie na zákazníka,Čakanje na kupca,Čekáme na odpověď
+be59e54f-9a05-44ba-9ee4-6263e1ebaabc,#000000,#ff3b30,Ověřujeme adresu,,,,,,,,,,,,,,,,,,Ověřujeme adresu
+820b4750-e5d3-4491-9991-b46affa3e6fa,#000000,#5ac8fa,Reklamace- PIKITO Praha,,,,,,,,,,,,,,,,,,Reklamace- PIKITO Praha
+821f9dcb-67d7-4727-86a4-490f6159354c,#000000,#abb8c3,Vrácení- PIKITO Praha,,,,,,,,,,,,,,,,,,Vrácení- PIKITO Praha
+a5c7e41b-0ecb-43de-8f76-de9dbc2dd4df,#000000,#5ac8fa,Reklamace -  PIKITO Bratislava,,,,,,,,,,,,,,,,,,Reklamace -  PIKITO Bratislava
+0e2fdb13-7f99-4063-8365-592b95877d87,#ff3b30,#abb8c3,zamítnuto,,,,,,,,,,,,,,,,,,zamítnuto
+789e6604-a2fe-473d-8b07-cc1705cd0f9c,#000000,#007aff,Musíme odpovědět,,,,,,,,,,,,,,,,,,Musíme odpovědět
+6eaf3759-05de-4fb9-895f-e9ee4a771e6f,#ff3b30,#ffffff,Reklamace prodejna,,,,,,,,,,,,,,,,,,Reklamace prodejna
+2b7978c6-2063-48d2-ade5-e38d439e6f68,#000000,#abb8c3,Vrácení - PIKITO Bratislava,,,,,,,,,,,,,,,,,,Vrácení - PIKITO Bratislava
+ebf9ba76-ba98-4f75-9054-7a8a04cb09d6,#ff2d55,#5ac8fa,Neobvyklé řešení,,,,,,,,,,,,,,,,,,Neobvyklé řešení
+6df72ea3-b90b-45a8-9751-12b479f382d3,#5ac8fa,#ff3b30,čekáme na fotky,,,,,,,,,,,,,,,,,,čekáme na fotky
+97544cc2-c634-4850-bfd7-59bc4637de15,#ffcc00,#ff2d55,Opakovaná reklamace - kazové produkty,,,,,,,,,,,,,,,,,,Opakovaná reklamace - kazové produkty

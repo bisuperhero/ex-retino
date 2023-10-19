@@ -1,0 +1,3 @@
+id,description,contract,countries,lang_cs,lang_hu,lang_sk,name
+8575bc11-615d-407e-8b13-065f8a7ca190,{},ShippingContract object (c4585908-e308-4e7d-8d50-503e4607c55f),['CZ'],Svoz GLS,,,Svoz GLS
+4faaeb11-a22c-4bfb-b605-2d3d26045f8d,{},ShippingContract object (35f0a40c-230b-4d49-802d-5a0f1c59c675),"['CZ', 'SK', 'HU']",Zásilkovna,Packeta,Packeta,Zásilkovna
